@@ -8,9 +8,12 @@
 
 ### Who can join
 
-### Support or Contact
+## How to join?
+
+## Past events
+
+
+## Support or Contact
 
 - [Haruka Ozaki](https://github.com/yuifu)
 - [Akihiro Kuno](https://github.com/akikuno)
-
-## Past events
