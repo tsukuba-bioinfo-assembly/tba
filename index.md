@@ -3,8 +3,10 @@
 Every other Thursday from 2pm by zoom.
 隔週木曜日14時からzoomで。
 
-- 2021/04/15  Haruka Ozaki, New Fiscal Year Party (kick-off)
-- 2021/04/22  TBA
+| Date | Presenter | Topic |
+| -- | -- | -- | 
+| 2021/04/15 | Haruka Ozaki  | New Fiscal Year Party (kick-off) | 
+| 2021/04/22 | TBA | TBA | 
 
 
 ## What is Tsukuba Bioinfo Assembly?
