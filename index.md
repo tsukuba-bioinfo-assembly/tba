@@ -21,22 +21,24 @@ A laboratory is a community of people working together with a common interest in
 
 Meeting
 
-- Tutorial (hands-on)
-- Paper review (Jounral club)
-- Research proposal/progress
-- Seminar
+- Tutorial (hands-on)  チュートリアル（ハンズオン）
+- Paper review (Jounral club)  論文レビュー
+- Research proposal/progress  研究提案・進捗報告
+- Seminar  セミナー
 
 
 Slack
 
-- Communications
-- Information exchange
-- Troubleshootings
+- Communications  コミュニケーション
+- Information exchange  情報交換
+- Troubleshootings  トラブルシューティング
 
 
 ### Who can join
 
 Anyone can join this meeting!
+
+誰でも参加できます！
 
 ## How to join?
 
@@ -45,6 +47,10 @@ Please use the [Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) to automatical
 [Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) から登録するとSlackへの招待が自動的に送られます。
 
 ## Past events
+
+### Offline meeting before COVID-19 era
+
+![image](https://user-images.githubusercontent.com/2063184/114187841-69386080-9983-11eb-8c13-97313a4be3f3.png)
 
 
 ## Support or Contact
