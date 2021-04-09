@@ -1,6 +1,7 @@
 ## Schedule
 
 Every other Thursday from 2pm by zoom.
+
 隔週木曜日14時からzoomで。
 
 | Date | Presenter | Topic |
