@@ -16,7 +16,7 @@ Every other Thursday from 2pm by zoom.
 
 A laboratory is a community of people working together with a common interest in a particular field. In contrast, bioinformatics, AI, machine learning, programming, etc. have become fundamental to almost all labs. We organize beyond-lab community to bring opportunities of training and discussion of these topics to students/researchers.
 
-ラボ＝研究室は、共通の関心を持って特定の分野に取り組む人々のコミュニティです。それに対して、バイオインフォマティクス、AI、機械学習、プログラミングなどは、ほとんどすべての研究室にとって重要なものとなっています。私たちはbラボを越えたコミュニティとしてを組織することで、学生や研究者にこれらのトピックに関するトレーニングや議論の機会を提供することを目指しています。
+ラボ＝研究室は、共通の関心を持って特定の分野に取り組む人々のコミュニティです。それに対して、バイオインフォマティクス、AI、機械学習、プログラミングなどは、ほとんどすべての研究室にとって重要なものとなっています。私たちはラボを越えたコミュニティとして、学生や研究者にこれらのトピックに取り組む機会を提供することを目指しています。
 
 ### What we do
 
