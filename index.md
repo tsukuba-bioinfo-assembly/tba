@@ -7,7 +7,7 @@ Every other Thursday from 2pm by zoom.
 | Date | Presenter | Topic |
 | -- | -- | -- | 
 | 2021/04/15 | Haruka Ozaki  | New Fiscal Year Party (kick-off) | 
-| 2021/04/22 | TBA | TBA | 
+| 2021/04/22 | Sayaka Suzuki | Tips for bioinformatics | 
 
 
 ## What is Tsukuba Bioinfo Assembly?
