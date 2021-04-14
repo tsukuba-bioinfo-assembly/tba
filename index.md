@@ -60,5 +60,6 @@ Please use the [Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) to automatical
 
 - [Haruka Ozaki](https://github.com/yuifu)
 - [Akihiro Kuno](https://github.com/akikuno)
+- [Sayaka Suzuki](https://github.com/sayasuzu)
 - Contact: tsukuba-bioinfo-assembly#googlegroups.com (Replace # with @)
 
