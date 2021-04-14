@@ -6,9 +6,9 @@ Every other Thursday from 2pm by zoom.
 
 | Date | Presenter | Topic |
 | -- | -- | -- | 
-| 2021/04/15 | Haruka Ozaki  | New Fiscal Year Party (kick-off) | 
-| 2021/04/22 | Sayaka Suzuki & Ozaki | Tips for bioinformatics | 
-| 2021/05/06 | Akihiro Kuno | "How to learn programming" | 
+| 2021/04/15 | Haruka Ozaki (Univ. Tsukuba) | New Fiscal Year Party (kick-off) | 
+| 2021/04/22 | Sayaka Suzuki & Haruka Ozaki (Univ. Tsukuba) | Tips for bioinformatics | 
+| 2021/05/06 | Akihiro Kuno (Univ. Tsukuba) | "How to learn programming" | 
 | 2021/05/20 | TBA | TBA | 
 
 
