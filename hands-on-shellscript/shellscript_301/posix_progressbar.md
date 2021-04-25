@@ -1,8 +1,12 @@
-## Progress bar with POSIX compliant Shell script
+# Progress bar with POSIX compliant Shell script
+
+POSIX準拠Shellコマンドでプログレスバーを表示しよう
+
 
 ## Introduction
 
-An example of displaying a progress bar in a shell script is [code like the following](https://unix.stackexchange.com/questions/415421/linux-how-to-create-simple-progress-bar-in-bash).
+- An example of displaying a progress bar in a shell script is [code like the following](https://unix.stackexchange.com/questions/415421/linux-how-to-create-simple-progress-bar-in-bash).
+- シェルスクリプトでプログレスバーを表示する一例として、[下記のようなコード](https://unix.stackexchange.com/questions/415421/linux-how-to-create-simple-progress-bar-in-bash)が挙げられます。
 
 
 ```bash
@@ -26,10 +30,12 @@ done ; echo
 
 ## Questions
 
--The above code contains [Bashism](https://mywiki.wooledge.org/Bashism). Please rewrite the code to remove all warnings with `#!/bin/sh` shebang in [shellcheck](https://www.shellcheck.net/).
+- Q1. The above code contains [Bashism](https://mywiki.wooledge.org/Bashism). Please rewrite the code to remove all warnings with `#!/bin/sh` shebang in [shellcheck](https://www.shellcheck.net/).
+- Q1. 上記のコードは[Bashism](https://mywiki.wooledge.org/Bashism)が含まれています. [Shellcheck](https://www.shellcheck.net/#)で`#!/bin/sh`指定をした状態で警告がなくなるようにコードを修正してください.
 
 
-- The above code only supports up to 1...100. Please rewrite it so that the progress bar can be displayed at any step
+- Q2. The above code only supports up to 1...100. Please rewrite it so that the progress bar can be displayed at any step
+- Q2. 上記のコードは1...100までしか対応していないため、任意のステップでプログレスバーを表示できるように書き直してください
 
 -------------------------------------------------------------------------------
 
@@ -38,7 +44,8 @@ done ; echo
 <details>
 <summary>Click here if you want...</summary>
 
-- The above code contains [Bashism](https://mywiki.wooledge.org/Bashism). Please rewrite the code to remove all warnings with `#!/bin/sh` shebang in [shellcheck](https://www.shellcheck.net/).
+- Q1. The above code contains [Bashism](https://mywiki.wooledge.org/Bashism). Please rewrite the code to remove all warnings with `#!/bin/sh` shebang in [shellcheck](https://www.shellcheck.net/).
+- Q1. 上記のコードは[Bashism](https://mywiki.wooledge.org/Bashism)が含まれています. [Shellcheck](https://www.shellcheck.net/#)で`#!/bin/sh`指定をした状態で警告がなくなるようにコードを修正してください.
 
 ```sh
 prog() (
@@ -58,7 +65,9 @@ done
 printf "\n"
 ```
 
-- The above code only supports up to 1...100. Please rewrite it so that the progress bar can be displayed at any step
+- Q2. The above code only supports up to 1...100. Please rewrite it so that the progress bar can be displayed at any step
+- Q2. 上記のコードは1...100までしか対応していないため、任意のステップでプログレスバーを表示できるように書き直してください
+
 
 ```sh
 prog() (
