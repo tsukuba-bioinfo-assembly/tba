@@ -10,9 +10,14 @@ Every other Thursday from 2pm by zoom.
 | 2021/04/22 | Sayaka Suzuki & Haruka Ozaki (Univ. Tsukuba) | Tips for bioinformatics | 
 | 2021/05/~~06~~13 | Akihiro Kuno (Univ. Tsukuba) | "How to learn programming" | 
 | 2021/05/20 | Kozo Nishida (RIKEN) | Introducing Bioconductor and its community | 
-| 2021/06/03 | TBA | TBA | 
+| 2021/06/03 | Haruka Ozaki (Univ. Tsukuba) | Awesome tidyverse!! (hands-on) | 
 | 2021/06/17 | TBA | TBA | 
 | 2021/07/01 | TBA | TBA | 
+| 2021/07/15 | TBA | TBA | 
+| 2021/09/09 | TBA | TBA | 
+| 2021/09/30 | TBA | TBA | 
+| 2021/10/07 | TBA | TBA | 
+| 2021/10/21 | TBA | TBA | 
 
 
 ## What is Tsukuba Bioinfo Assembly?
