@@ -11,7 +11,7 @@ Every other Thursday from 2pm by zoom.
 | 2021/05/~~06~~13 | Akihiro Kuno (Univ. Tsukuba) | "How to learn programming" | 
 | 2021/05/20 | Kozo Nishida (RIKEN) | Introducing Bioconductor and its community | 
 | 2021/06/03 | Haruka Ozaki (Univ. Tsukuba) | Awesome tidyverse!! (hands-on) | 
-| 2021/06/17 | Hirofumi Aso (Univ. Tokyo) <br> Akira Iguchi (AIST) | TBA <br> "Multi-omics analysis of the coral Acropora digitifera colonies with different heat stress tolerances" | 
+| 2021/06/17 | Hirofumi Aso (Univ. Tokyo) <br> Akira Iguchi (AIST) | "Single-cell analysis of immune responses to viral infection" <br> "Multi-omics analysis of the coral Acropora digitifera colonies with different heat stress tolerances" | 
 | 2021/07/01 | Kazumasa Kanemaru (Sanger Institute) <br> Yumi Kanemaru (ex Univ. Tsukuba) | TBA <br> TBA | 
 | 2021/07/15 | Masa-aki Yoshida (Univ. Shimane) <br> Masayo Nomoto (Univ. Tokyo) | TBA <br> TBA | 
 | 2021/09/09 | TBA | TBA | 
