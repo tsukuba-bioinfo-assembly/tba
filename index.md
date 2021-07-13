@@ -14,7 +14,7 @@ Every other Thursday from 2pm by zoom.
 | 2021/06/17 | Hirofumi Aso (Univ. Tokyo) <br> Akira Iguchi (AIST) | "Single-cell analysis of immune responses to viral infection" <br> "Multi-omics analysis of the coral Acropora digitifera colonies with different heat stress tolerances" | 
 | 2021/07/01 | Yumi Kanemaru (ex Univ. Tsukuba) <br> Kazumasa Kanemaru (Sanger Institute) | "Multi-layer biology: wet/dry, mice/humans, and Japan/UK" <br> "scRNA-seq analysis of T cells in graft-versus-host disease" | 
 | 2021/07/15 | Masa-aki Yoshida (Univ. Shimane) <br> Masayo Nomoto (Univ. Tokyo) | "Independent adoptions of proteins found in the mineralized shell-like eggcase of Argonaut octopuses" <br> "My struggles; from de novo transcriptome assembly to analysis of deferentially expressed mRNA for non-model species “stingray”" | 
-| 2021/09/09 | TBA | TBA | 
+| 2021/09/09 | Kotaro Sakamoto (ISM) | Jounal club: ["Poincaré maps: Hyperbolic embeddings to understand how cells develop"](https://ai.facebook.com/blog/poincare-maps-hyperbolic-embeddings-to-understand-how-cells-develop/) | 
 | 2021/09/30 | TBA | TBA | 
 | 2021/10/07 | TBA | TBA | 
 | 2021/10/21 | TBA | TBA | 
