@@ -17,7 +17,7 @@ Every other Thursday from 2pm by zoom.
 | 2021/09/09 | Kotaro Sakamoto (ISM) | Jounal club: ["Poincaré maps: Hyperbolic embeddings to understand how cells develop"](https://ai.facebook.com/blog/poincare-maps-hyperbolic-embeddings-to-understand-how-cells-develop/) | 
 | 2021/09/30 | Yu-Hsien Lin (Piao-Piao) (Univ. Tsukuba)| 1. [Selective suppression of oral allergen-induced anaphylaxis by Allergin-1 on basophils in mice]( https://academic.oup.com/intimm/article/32/3/213/5622929) 2. Microbiota and intestinal barrier function. | 
 | 2021/10/07 | TBA | TBA | 
-| 2021/10/21 **10:30-12:00** | Alexis Vandenbon (Kyoto University) | TBA | 
+| 2021/10/21 <br> **10:30-12:00** | Alexis Vandenbon (Kyoto University) | TBA | 
 | 2021/11/04 | Tazro OHTA (DBCLS, ROIS) | TBA | 
 | 2021/11/18 | TBA | TBA | 
 | 2021/12/02 | TBA | TBA | 
