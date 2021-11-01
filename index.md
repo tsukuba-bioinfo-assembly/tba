@@ -19,7 +19,7 @@ Every other Thursday from 2pm by zoom.
 | 2021/10/07 | Akihiro Kuno (Univ. Tsukuba) | Share all the joys and sorrows of software development | 
 | 2021/10/21 <br> **10:30-12:00** | Alexis Vandenbon (Kyoto University) | singleCellHaystack: A clustering-independent method for finding differentially expressed genes in single-cell transcriptome data | 
 | 2021/11/04 | Tazro OHTA (DBCLS, ROIS) | Learn what and when to learn: skills for bioinformatics as open science | 
-| 2021/11/18 | TBA | TBA | 
+| 2021/11/18 | Sayaka Suzuki (Univ. Tsukuba) | Cell-to-cell interaction analysis of prognostic ligand-receptor pairs in human pancreatic ductal adenocarcinoma | 
 | 2021/12/02 | TBA | TBA | 
 | 2021/12/16 | TBA | TBA | 
 
