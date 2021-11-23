@@ -22,6 +22,10 @@ Every other Thursday from 2pm by zoom.
 | 2021/11/18 | Sayaka Suzuki (Univ. Tsukuba) | Cell-to-cell interaction analysis of prognostic ligand-receptor pairs in human pancreatic ductal adenocarcinoma | 
 | 2021/12/02 | TBA | TBA | 
 | 2021/12/16 | TBA | TBA | 
+| 2022/01/13 | TBA | TBA | 
+| 2022/01/27 | TBA | TBA | 
+| 2022/02/10 | TBA | TBA | 
+| 2022/02/24 | TBA | TBA | 
 
 
 ## What is Tsukuba Bioinfo Assembly?
