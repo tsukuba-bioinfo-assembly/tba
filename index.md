@@ -23,7 +23,7 @@ Every other Thursday from 2pm by zoom.
 | 2021/11/18 | Sayaka Suzuki (Univ. Tsukuba) | Cell-to-cell interaction analysis of prognostic ligand-receptor pairs in human pancreatic ductal adenocarcinoma | 
 | 2021/12/02 | Akihiro Kuno (Univ. Tsukuba) | [Hands-on] Programming 101 ~ if statement and for loop ~ | 
 | ~~2021/12/16~~ | --- | Canceled |
-| 2022/01/13 | Josephine Galipon (Keio Univ.) | TBA | 
+| 2022/01/13 | Josephine Galipon (Keio Univ.) | Nomadic open bioscience | 
 | 2022/01/27 | TBA | TBA | 
 | 2022/02/10 | Jun Seita (RIKEN) | TBA | 
 | 2022/02/24 | TBA | TBA | 
