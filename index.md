@@ -24,7 +24,7 @@ Every other Thursday from 2pm by zoom.
 | 2021/12/02 | Akihiro Kuno (Univ. Tsukuba) | [Hands-on] Programming 101 ~ if statement and for loop ~ | 
 | ~~2021/12/16~~ | --- | Canceled |
 | 2022/01/13 | Josephine Galipon (Keio Univ.) | Advanced Nomadic Open Bioscience | 
-| 2022/01/27 | TBA | TBA | 
+| ~~2022/01/27~~ | --- | Canceled |
 | 2022/02/10 | Jun Seita (RIKEN) | Each gene has a different dynamic-range of its expression. | 
 | 2022/02/24 | TBA | TBA | 
 
