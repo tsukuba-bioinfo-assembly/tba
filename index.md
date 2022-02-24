@@ -26,7 +26,8 @@ Every other Thursday from 2pm by zoom.
 | 2022/01/13 | Josephine Galipon (Keio Univ.) | Advanced Nomadic Open Bioscience | 
 | ~~2022/01/27~~ | --- | Canceled |
 | 2022/02/10 | Jun Seita (RIKEN) | Each gene has a different dynamic-range of its expression. | 
-| 2022/02/24 | Sayaka SUzuki (Univ. Tsukuba) | [Tutorial] How to use ICGC tada portal for cancer research | 
+| ~~2022/02/24~~ | ~~Sayaka SUzuki (Univ. Tsukuba)~~ | ~~[Tutorial] How to use ICGC tada portal for cancer research~~ <br>Postponed to 3/10 | 
+| 2022/03/10 | Sayaka SUzuki (Univ. Tsukuba) | [Tutorial] How to use ICGC tada portal for cancer research | 
 
 
 ## What is Tsukuba Bioinfo Assembly?
