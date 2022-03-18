@@ -1,15 +1,14 @@
 # Tsukuba Bioinfo Assembly
 ## Schedule
 
-:::note info
-From April 2022,
-TBA will be held every other Tuesday 
-from 12:00 to 12:45
-:::
+**From April 2022, TBA will be held every other Tuesday from 12:00 to 12:45 via zoom.**
 
+**2022年4月からは隔週火曜日12:00~12:45の間でzoomでの開催となります！**
 
 | Date | Presenter | Topic |
 | -- | -- | -- | 
+| 2022/04/12 | Haruka Ozaki (Univ. Tsukuba) | Welcome to TBA & Review of Bioinformatics 2021 | 
+***
 | 2021/04/15 | Haruka Ozaki (Univ. Tsukuba) | New Fiscal Year Party (kick-off) | 
 | 2021/04/22 | Sayaka Suzuki & Haruka Ozaki (Univ. Tsukuba) | Tips for bioinformatics | 
 | 2021/05/~~06~~13 | Akihiro Kuno (Univ. Tsukuba) | "How to learn programming" | 
