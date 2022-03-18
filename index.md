@@ -1,9 +1,12 @@
 # Tsukuba Bioinfo Assembly
 ## Schedule
 
-Every other Thursday from 2pm by zoom.
+:::note info
+From April 2022,
+TBA will be held every other Tuesday 
+from 12:00 to 12:45
+:::
 
-隔週木曜日14時からzoomで。
 
 | Date | Presenter | Topic |
 | -- | -- | -- | 
