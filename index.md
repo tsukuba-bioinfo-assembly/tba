@@ -10,7 +10,7 @@
 | -- | -- | -- | 
 | 2022/04/12 | Haruka Ozaki (Univ. Tsukuba) | Welcome to TBA & Review of Bioinformatics 2021 |
 
-***
+
 
 | Date | Presenter | Topic |
 | -- | -- | -- |
