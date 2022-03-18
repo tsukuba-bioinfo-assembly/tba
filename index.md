@@ -8,8 +8,10 @@
 
 | Date | Presenter | Topic |
 | -- | -- | -- | 
-| 2022/04/12 | Haruka Ozaki (Univ. Tsukuba) | Welcome to TBA & Review of Bioinformatics 2021 | 
+| 2022/04/12 | Haruka Ozaki (Univ. Tsukuba) | Welcome to TBA & Review of Bioinformatics 2021 |
+
 ***
+
 | Date | Presenter | Topic |
 | -- | -- | -- |
 | 2021/04/15 | Haruka Ozaki (Univ. Tsukuba) | New Fiscal Year Party (kick-off) | 
