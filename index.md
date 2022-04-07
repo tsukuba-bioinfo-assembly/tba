@@ -4,13 +4,13 @@
 
 **2022年4月からは隔週火曜日12:00~12:45の間でzoomでの開催となります！**
 
-## Schedule
+## Upcoming meetings
 
 | Date | Presenter | Topic |
 | -- | -- | -- | 
 | 2022/04/12 | Haruka Ozaki (Univ. Tsukuba) | Welcome to TBA & Review of Bioinformatics 2021 |
 
-***
+## Previous meetings
 
 | Date | Presenter | Topic |
 | -- | -- | -- |
