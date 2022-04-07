@@ -67,6 +67,7 @@ Please use the [Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) to automatical
 
 ## Previous meetings
 ## AY2021
+
 | Date | Presenter | Topic |
 | -- | -- | -- |
 | 2021/04/15 | Haruka Ozaki (Univ. Tsukuba) | New Fiscal Year Party (kick-off) | 
