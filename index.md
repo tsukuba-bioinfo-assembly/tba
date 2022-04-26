@@ -10,8 +10,8 @@
 | -- | -- | -- | 
 | 2022/04/12 | Haruka Ozaki (Univ. Tsukuba) | Welcome to TBA & Review of Bioinformatics 2021 |
 | 2022/04/26 | Sayaka Suzuki (Univ. Tsukuba) | Tips for succeeding in PhD program |
-
-
+| 2022/05/10 | Shoi Shi (Univ. Tsukuba) | Sleep meets data science |
+| 2022/05/24 | TBA | TBA |
 
 
 ## What is Tsukuba Bioinfo Assembly?
