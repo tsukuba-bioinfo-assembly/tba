@@ -12,8 +12,8 @@
 | 2022/04/26 | Sayaka Suzuki (Univ. Tsukuba) | Tips for succeeding in PhD program |
 | 2022/05/10 | Shoi Shi (Univ. Tsukuba) | Sleep meets data science |
 | 2022/05/24 | Hirofumi Aso (Univ. Tokyo) | Git and GitHub |
-| 2022/06/07 | TBA | TBA |
-| 2022/06/21 | TBA | TBA |
+| 2022/06/07 | Corrine Schwier (Univ. Tsukuba) | TBA |
+| 2022/06/21 | Akihiro Kuno (Univ. Tsukuba) | TBA |
 | 2022/07/05 | TBA | TBA |
 | 2022/07/19 | TBA | TBA |
 
