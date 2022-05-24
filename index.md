@@ -13,8 +13,7 @@
 | 2022/05/10 | Shoi Shi (Univ. Tsukuba) | Sleep meets data science |
 | 2022/05/24 | Hirofumi Aso (Univ. Tokyo) | Git and GitHub |
 | 2022/06/07 | Corrine Schwier (Univ. Tsukuba) | Ways that data science can be used to improve patient care |
-| 2022/06/21 | Akihiro Kuno (Univ. Tsukuba) | Lovely environment management with conda and mamba:smiling_face_with_3_hearts: (
-condaとmambaで快適！環境構築:smiling_face_with_3_hearts:) |
+| 2022/06/21 | Akihiro Kuno (Univ. Tsukuba) | Lovely environment management with conda and mamba:smiling_face_with_3_hearts: (condaとmambaで快適！環境構築:smiling_face_with_3_hearts:) |
 | 2022/07/05 | TBA | TBA |
 | 2022/07/19 | TBA | TBA |
 
