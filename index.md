@@ -15,7 +15,7 @@
 | 2022/06/07 | Corrine Schwier (Univ. Tsukuba) | Ways that data science can be used to improve patient care                          |
 | 2022/06/14 ~~2022/06/21~~ | Akihiro Kuno (Univ. Tsukuba)    | Lovely environment management with conda and mamba🥰 (condaとmambaで快適！環境構築🥰) |
 | 2022/07/05 | TBA                             | TBA                                                                                 |
-| 2022/07/19 | TBA                             | TBA                                                                                 |
+| 2022/07/19 | Kazuya Miyanishi (Univ. Tsukuba)    | TBA                                                                                 |
 
 
 ## What is Tsukuba Bioinfo Assembly?
