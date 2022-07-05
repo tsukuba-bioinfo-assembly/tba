@@ -15,7 +15,7 @@
 | 2022/06/07 | Corrine Schwier (Univ. Tsukuba) | Ways that data science can be used to improve patient care                          |
 | 2022/06/14 ~~2022/06/21~~ | Akihiro Kuno (Univ. Tsukuba)    | Lovely environment management with conda and mamba🥰 (condaとmambaで快適！環境構築🥰) |
 | 2022/07/05 | Hirofumi Kariyayama (Univ. Tsukuba) | Journal club: Systematic reconstruction of cellular trajectories across mouse embryogenesis |
-| 2022/07/19 | Kazuya Miyanishi (Univ. Tsukuba)    | TBA                                                                                 |
+| 2022/07/19 | Kazuya Miyanishi (Univ. Tsukuba)    | Temporal dynamics of microglia in Alzheimer's disease model mice using single-cell RNA sequence |
 
 
 ## What is Tsukuba Bioinfo Assembly?
