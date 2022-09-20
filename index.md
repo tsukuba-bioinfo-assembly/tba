@@ -17,7 +17,7 @@
 | 2022/07/05 | Hirofumi Kariyayama (Univ. Tsukuba) | Journal club: Systematic reconstruction of cellular trajectories across mouse embryogenesis |
 | 2022/07/19 | Kazuya Miyanishi (Univ. Tsukuba)    | Temporal dynamics of microglia in Alzheimer's disease model mice using single-cell RNA sequence |
 | 2022/10/11 | Haruka Ozaki (Univ. Tsukuba) | Welcome to TBA (Fall) & Introduction to Visual Studio Code |
-| 2022/10/11 | Akihiro Kuno (Univ. Tsukuba) | TBA |
+| 2022/10/25 | Akihiro Kuno (Univ. Tsukuba) | TBA |
 
 ## What is Tsukuba Bioinfo Assembly?
 
