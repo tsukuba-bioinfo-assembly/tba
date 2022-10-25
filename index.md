@@ -18,6 +18,7 @@
 | 2022/07/19 | Kazuya Miyanishi (Univ. Tsukuba)    | Temporal dynamics of microglia in Alzheimer's disease model mice using single-cell RNA sequence |
 | 2022/10/25 | Haruka Ozaki (Univ. Tsukuba)        | Welcome to TBA (Fall) & Introduction to Visual Studio Code                                      |
 | 2022/11/08 | Akihiro Kuno (Univ. Tsukuba)        | Handy web scraping with Shell Script🍰                                                           |
+| 2022/11/22 | Ryosuke Matsuzawa (Univ. Tsukuba)        | My experience on R Packaging and Bioconductor      |
 
 ## What is Tsukuba Bioinfo Assembly?
 
