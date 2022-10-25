@@ -6,18 +6,18 @@
 
 ## Upcoming meetings AY2022
 
-| Date       | Presenter                       | Topic                                                                               |
-| ---------- | ------------------------------- | ----------------------------------------------------------------------------------- |
-| 2022/04/12 | Haruka Ozaki (Univ. Tsukuba)    | Welcome to TBA & Review of Bioinformatics 2021                                      |
-| 2022/04/26 | Sayaka Suzuki (Univ. Tsukuba)   | Tips for succeeding in PhD program                                                  |
-| 2022/05/10 | Shoi Shi (Univ. Tsukuba)        | Sleep meets data science                                                            |
-| 2022/05/24 | Hirofumi Aso (Univ. Tokyo)      | Git and GitHub                                                                      |
-| 2022/06/07 | Corrine Schwier (Univ. Tsukuba) | Ways that data science can be used to improve patient care                          |
-| 2022/06/14 ~~2022/06/21~~ | Akihiro Kuno (Univ. Tsukuba)    | Lovely environment management with conda and mamba🥰 (condaとmambaで快適！環境構築🥰) |
-| 2022/07/05 | Hirofumi Kariyayama (Univ. Tsukuba) | Journal club: Systematic reconstruction of cellular trajectories across mouse embryogenesis |
+| Date       | Presenter                           | Topic                                                                                           |
+| ---------- | ----------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 2022/04/12 | Haruka Ozaki (Univ. Tsukuba)        | Welcome to TBA & Review of Bioinformatics 2021                                                  |
+| 2022/04/26 | Sayaka Suzuki (Univ. Tsukuba)       | Tips for succeeding in PhD program                                                              |
+| 2022/05/10 | Shoi Shi (Univ. Tsukuba)            | Sleep meets data science                                                                        |
+| 2022/05/24 | Hirofumi Aso (Univ. Tokyo)          | Git and GitHub                                                                                  |
+| 2022/06/07 | Corrine Schwier (Univ. Tsukuba)     | Ways that data science can be used to improve patient care                                      |
+| 2022/06/14 | Akihiro Kuno (Univ. Tsukuba)        | Lovely environment management with conda and mamba🥰 (condaとmambaで快適！環境構築🥰)             |
+| 2022/07/05 | Hirofumi Kariyayama (Univ. Tsukuba) | Journal club: Systematic reconstruction of cellular trajectories across mouse embryogenesis     |
 | 2022/07/19 | Kazuya Miyanishi (Univ. Tsukuba)    | Temporal dynamics of microglia in Alzheimer's disease model mice using single-cell RNA sequence |
-| 2022/10/11 | Haruka Ozaki (Univ. Tsukuba) | Welcome to TBA (Fall) & Introduction to Visual Studio Code |
-| 2022/10/25 | Akihiro Kuno (Univ. Tsukuba) | TBA |
+| 2022/10/25 | Haruka Ozaki (Univ. Tsukuba)        | Welcome to TBA (Fall) & Introduction to Visual Studio Code                                      |
+| 2022/11/08 | Akihiro Kuno (Univ. Tsukuba)        | Handy web scraping with Shell Script🍰                                                           |
 
 ## What is Tsukuba Bioinfo Assembly?
 
