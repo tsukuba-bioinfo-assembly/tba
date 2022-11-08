@@ -53,9 +53,9 @@ Anyone can join this meeting!
 
 ## How to join?
 
-Please use the [Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) to automatically get an invitation to our Slack workspace!
+Please use the [Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) to automatically get an invitation to our Discord!
 
-[Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) から登録するとSlackへの招待が自動的に送られます。
+[Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) から登録すると Discord への招待が自動的に送られます。
 
 ## Past events
 
@@ -68,6 +68,8 @@ Please use the [Google Form](https://forms.gle/CjqDFPbP1xjtJaFh6) to automatical
 
 - [Haruka Ozaki](https://github.com/yuifu)
 - [Akihiro Kuno](https://github.com/akikuno)
+- Hirofumi Aso
+- Kazuya Miyanishi
 - [Sayaka Suzuki](https://github.com/sayasuzu)
 - Contact: tsukuba-bioinfo-assembly#googlegroups.com (Replace # with @)
 
