@@ -20,8 +20,10 @@
 | 2022/11/08 | Akihiro Kuno (Univ. Tsukuba)        | Handy web scraping with Shell Script🍰                                                           |
 | 2022/11/22 | Ryosuke Matsuzawa (Univ. Tsukuba)   | My experience on R Packaging and Bioconductor                                                   |
 | 2022/12/20 | Kazuya Miyanishi (Univ. Tsukuba)    | Look-back on my first oversea conference & lab visit                                            |
-| 2023/1/10  | TBA staff & You!                    | New Year's Resolutions & Share your issues on bioinformatics and research                       |
-| 2023/1/24  | TBA staff & You                     | Resources (books, websites, videos etc...) you are loving in😍                                   |
+| 2023/01/10  | TBA staff & You!                    | New Year's Resolutions & Share your issues on bioinformatics and research                       |
+| 2023/01/24  | TBA staff & You                     | Resources (books, websites, videos etc...) you are loving in😍                                   |
+| 2023/02/07  | Akihiro Kuno (Univ. Tsukuba)                     | To be announced                                   |
+| 2023/02/14 (**16:00**) | Sayaka Suzuki (Karolinska Institutet)                     | To be announced                                   |
 
 ## What is Tsukuba Bioinfo Assembly?
 
