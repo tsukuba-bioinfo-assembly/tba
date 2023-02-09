@@ -23,7 +23,7 @@
 | 2023/01/10  | TBA staff & You!                    | New Year's Resolutions & Share your issues on bioinformatics and research                       |
 | 2023/01/24  | TBA staff & You                     | Resources (books, websites, videos etc...) you are loving in😍                                   |
 | 2023/02/07  | Akihiro Kuno (Univ. Tsukuba)                     | To be announced                                   |
-| 2023/02/14 (**16:00**) | Sayaka Suzuki (Karolinska Institutet)                     | To be announced                                   |
+| 2023/02/14 (**16:00**) | Sayaka Suzuki (Karolinska Institutet)                     | Cross the Borders in Research ~ Informatics meets Immunology~  |
 
 ## What is Tsukuba Bioinfo Assembly?
 
